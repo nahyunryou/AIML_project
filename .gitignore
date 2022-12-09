@@ -1,2 +1,8 @@
 # To avoid Desktop Services Store on Apple users: 
 .DS_Store
+
+# For Catboost executions:
+notebooks/catboost_info/
+
+# For Conda virtual environment
+.conda/
