@@ -2,7 +2,6 @@
 
 ### Team
 * Team number: 2
-* Team name: *Not decided yet*
 
 ### Members
 1. 유나현, Student ID: 20196#84, [Github user: nahyunryou](https://github.com/nahyunryou)
@@ -16,7 +15,7 @@ This repository contains the final project documentation and Jupyter notebooks f
 
 
 ## Contents
-1. [/PPT/](https://github.com/yeray142/AIML_project/tree/master/PPT): Presentation files.
+1. [/docs/](https://github.com/yeray142/AIML_project/tree/master/docs): Documentation and presentation files.
 2. [/data/](https://github.com/yeray142/AIML_project/tree/master/data): Datasets used.
 3. [/notebooks/](https://github.com/yeray142/AIML_project/tree/master/notebooks): Notebooks used to solve the problem.
 
@@ -31,3 +30,7 @@ The goal of this competition is to develop an algorithm that predicts the degree
 
 ### Metrics
 The competition results are evaluated using multi-class logarithmic loss. It's a classification problem.
+
+
+## Final Report
+Check out our final report of this competition in this [Notion page](https://luxurious-hiss-9d6.notion.site/Machine-Learning-for-AI-cc44116209b64295bad059bc29c6612c).
